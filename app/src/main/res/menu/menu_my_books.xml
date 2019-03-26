@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_download"
+        android:orderInCategory="100"
+        android:title="Download" />
+
+    <item
+        android:id="@+id/action_remove_wishlist"
+        android:orderInCategory="101"
+        android:title="Remove from Wishlist" />
+
+</menu>
