@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\pankajp.npheco\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\pankajp.npheco\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_418f202e9b01ef3d371c96a055ff46b597da423c.jar" />
+    </item>
+    <item
+        jar="C:\Users\pankajp.npheco\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="C:\Users\pankajp.npheco\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.3.0_047628ec437b8cc291c03c1390bba6b76129c729.jar" />
+    </item>
+    <item
+        jar="C:\Users\pankajp.npheco\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="C:\Users\pankajp.npheco\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.4.0_c7fe13e2c5fab8e0d677d25c5359f727b53a159a.jar" />
+    </item>
+    <item
+        jar="C:\Users\pankajp.npheco\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="C:\Users\pankajp.npheco\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-9.4.0_284de8a1f182b00b5d21f4edebc9f73d3d9cd33f.jar" />
+    </item>
+    <item
+        jar="C:\Users\pankajp.npheco\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="C:\Users\pankajp.npheco\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-9.4.0_074e44891a92c7db78d6a9bd3ce5a8b1f3fe19c0.jar" />
+    </item>
+    <item
+        jar="C:\Users\pankajp.npheco\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="C:\Users\pankajp.npheco\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-module-9.4.0_d82e82dc2a3d1604ed0f500ea40273ecbb988122.jar" />
+    </item>
+    <item
+        jar="C:\Users\pankajp.npheco\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\pankajp.npheco\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_f82693632751ea5b9e466608b03779e862593364.jar" />
+    </item>
+    <item
+        jar="C:\Users\pankajp.npheco\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="C:\Users\pankajp.npheco\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.4.0_ee4689762cb8b5b1e69132b754e5c29c467da375.jar" />
+    </item>
+    <item
+        jar="C:\Users\pankajp.npheco\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="C:\Users\pankajp.npheco\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.4.0_88408621b9bf4e1ec277833f1f781eb8ba18060d.jar" />
+    </item>
+    <item
+        jar="C:\Users\pankajp.npheco\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\pankajp.npheco\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_bd0fdd5b287055f7366a08bd8ce1b58b77e0b532.jar" />
+    </item>
+    <item
+        jar="C:\Users\pankajp.npheco\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="C:\Users\pankajp.npheco\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-9.4.0_0734aa2b45a32ccf08aaffe319290b7b64026271.jar" />
+    </item>
+    <item
+        jar="C:\Users\pankajp.npheco\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="C:\Users\pankajp.npheco\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.4.0_5da0da287cda424a20a32f04861b06d17a5836a5.jar" />
+    </item>
+    <item
+        jar="C:\Users\pankajp.npheco\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\pankajp.npheco\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_b427c2f65d9c85c60916fbf08ab246b6d165bea2.jar" />
+    </item>
+    <item
+        jar="C:\Users\pankajp.npheco\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="C:\Users\pankajp.npheco\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-common-9.4.0_33ed3bd92942474230e7034d83a7e7e404c260e2.jar" />
+    </item>
+    <item
+        jar="C:\Users\pankajp.npheco\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\pankajp.npheco\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.4.0_8b87f3bb9f993c9de8fcea691a01cd80c05277e5.jar" />
+    </item>
+    <item
+        jar="C:\Users\pankajp.npheco\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\pankajp.npheco\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_5d3ffb468dfa65f605273efdc586462a6c8aed48.jar" />
+    </item>
+    <item
+        jar="C:\Users\pankajp.npheco\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="C:\Users\pankajp.npheco\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.4.0_dc2baa5f7acc6babfd94647def6826d3618ed8b1.jar" />
+    </item>
+    <item
+        jar="C:\Users\pankajp.npheco\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\pankajp.npheco\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\pre-dexed\debug\glide-3.7.0_522d55d20c7d2c1719dbeaa97787996d5f47bfb3.jar" />
+    </item>
+    <item
+        jar="C:\Users\pankajp.npheco\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="C:\Users\pankajp.npheco\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-9.4.0_a20c8079537c32af1a2e45fae4dd880302d3d42f.jar" />
+    </item>
+    <item
+        jar="C:\Users\pankajp.npheco\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\pankajp.npheco\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_12b065cef7ea7d2252b69e9ef41b98139734b559.jar" />
+    </item>
+    <item
+        jar="C:\Users\pankajp.npheco\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="C:\Users\pankajp.npheco\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-9.4.0_f3b2c16dc4c720df390387f23f8b2a45fd55a4f4.jar" />
+    </item>
+    <item
+        jar="C:\Users\pankajp.npheco\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="C:\Users\pankajp.npheco\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.4.0_012f59be9cb0419448a4819ba277ac7de20d0452.jar" />
+    </item>
+    <item
+        jar="C:\Users\pankajp.npheco\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\pankajp.npheco\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_2efe188dd297458c7c289ed654cfe9bcf637cade.jar" />
+    </item>
+    <item
+        jar="C:\Users\pankajp.npheco\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="C:\Users\pankajp.npheco\AndroidStudioProjects\FirebaseAuth\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.4.0_10b26135e9adba14db0ff8c15c787f56e664cbe5.jar" />
+    </item>
+
+</items>
